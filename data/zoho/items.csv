@@ -1,0 +1,16 @@
+Item Name,SKU,Usage unit,Item Type,Product Type,Status,Rate,Purchase Rate,Reorder Level,Preferred Vendor,Category,Perishability
+Freshroots Mango Drink 200ml,SKU001,Units,Sales and Purchases,goods,Active,1,1,500,NutriFlow Distributors,Beverage,Low
+Freshroots Oats Cookies 150g,SKU002,Units,Sales and Purchases,goods,Active,1,1,200,NutriFlow Distributors,Snack,Low
+Freshroots Brown Rice 1kg,SKU003,Units,Sales and Purchases,goods,Active,1,1,300,GrainPath Logistics,Staple,Low
+Freshroots Almond Milk 500ml,SKU004,Units,Sales and Purchases,goods,Active,1,1,150,GrainPath Logistics,Dairy Alt,High
+Freshroots Mixed Nuts 100g,SKU005,Units,Sales and Purchases,goods,Active,1,1,150,PeakSource Supply,Snack,Low
+Freshroots Quinoa 500g,SKU006,Units,Sales and Purchases,goods,Active,1,1,100,PeakSource Supply,Staple,Low
+Freshroots Coconut Water 330ml,SKU007,Units,Sales and Purchases,goods,Active,1,1,400,NutriFlow Distributors,Beverage,High
+Freshroots Granola Bar 40g,SKU008,Units,Sales and Purchases,goods,Active,1,1,300,GrainPath Logistics,Snack,Low
+Freshroots Chia Seeds 200g,SKU009,Units,Sales and Purchases,goods,Active,1,1,80,PeakSource Supply,Staple,Low
+Freshroots Apple Cider Vinegar 500ml,SKU010,Units,Sales and Purchases,goods,Active,1,1,60,Meridian Trade Co.,Condiment,Low
+Freshroots Multigrain Bread 400g,SKU011,Units,Sales and Purchases,goods,Active,1,1,500,Meridian Trade Co.,Staple,High
+Freshroots Herbal Tea 25 bags,SKU012,Units,Sales and Purchases,goods,Active,1,1,150,Meridian Trade Co.,Beverage,Low
+Freshroots Peanut Butter 300g,SKU013,Units,Sales and Purchases,goods,Active,1,1,120,NutriFlow Distributors,Condiment,Low
+Freshroots Dark Chocolate 80g,SKU014,Units,Sales and Purchases,goods,Active,1,1,200,GrainPath Logistics,Snack,Low
+Freshroots Honey 500g,SKU015,Units,Sales and Purchases,goods,Active,1,1,80,PeakSource Supply,Condiment,Low
